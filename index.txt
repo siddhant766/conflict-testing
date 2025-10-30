@@ -1,4 +1,4 @@
-line1
+Merge
 line1
 line1
 line1
@@ -6,3 +6,4 @@ line1
 line1
 line1
 change
+
